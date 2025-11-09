@@ -97,12 +97,19 @@ ExcelSQLIntegration.sql_to_excel(
 
 ### Running the Examples
 
-Run the example script to see all features in action:
+Run the comprehensive example script to see all features in action:
 ```bash
 python excel_manipulator.py
 ```
 
 This will create example Excel files demonstrating various operations.
+
+For a simpler, quick-start example:
+```bash
+python simple_example.py
+```
+
+This creates a simple invoice-style spreadsheet with formulas.
 
 ## API Reference
 
